@@ -16,9 +16,9 @@ The model's performance is evaluated using the following metrics:
 - Root Mean Squared Error (RMSE)
 
 ## Results
-Mean Absolute Error: 7.228148653430826
-Mean Squared Error: 79.81305165097437
-Root Mean Squared Error: 8.93381506697863
+- Mean Absolute Error: 7.228148653430826
+- Mean Squared Error: 79.81305165097437
+- Root Mean Squared Error: 8.93381506697863
 
 ## Contributing
 Feel free to contribute to the project by forking the repository and submitting a pull request.
